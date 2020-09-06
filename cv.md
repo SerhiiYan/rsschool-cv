@@ -1,7 +1,7 @@
 ### Junior Developer Resume
 > ## Serhii Yanchevskyi
 
-> #### Contact Info:
+> ### Contact Info:
 > - email: serhii.yanchevskyi@gmail.com
 > - phone: +3752954205**
 > - [linkedIn](https://www.linkedin.com/in/sergey-yanchevskii-59ba93165/)
@@ -9,7 +9,7 @@
 
 > My goal at this stage is to devote most of my time to learning new things, <br/>in order to further use my knowledge as a tool to achieve great goals.
 
-> #### Skills:
+> ### Skills:
 > <table>
 >   <tr>
 >     <th>Languages</th>
@@ -30,7 +30,7 @@
 >   </tr>
 > </table>
 
-> #### Education:
+> ### Education:
 > - [freeCodeCamp](https://www.freecodecamp.org/learn/)
 > - [learnJS](https://learn.javascript.ru/)
 > - [Todd Moto JS course](https://ultimatecourses.com/)
